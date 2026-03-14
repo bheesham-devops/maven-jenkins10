@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for training - DevOps Techlab</h1>
-    <p>Sid Git Polling. Deployment GitHub Webhook - using pipeline</p>
+    <p>Sid Git Polling. Deployment GitHub Webhook - using pipeline SCM</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
